@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352786395722",
+    "project_id": "testregisterlogin-819d2",
+    "storage_bucket": "testregisterlogin-819d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352786395722:android:ab9c4a52059757d8a5ecb3",
+        "android_client_info": {
+          "package_name": "com.example.eleaveloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352786395722-v0e5q3qhralebhes932ekj70m8sm2nci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxpwT2HuSLgrSFHCjH3JYedX0bbfV5ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352786395722-v0e5q3qhralebhes932ekj70m8sm2nci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

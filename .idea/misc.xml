@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_apply_leave.xml" value="0.2087431693989071" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_leave_approval.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_leave_history.xml" value="0.22" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_main.xml" value="0.28894927536231885" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_main_page.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_apply_leave.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_leave_history.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_main_page.xml" value="0.1703125" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_update_profile.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_update_user_profile.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_manager_user_profile.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_register_user2.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_update_status.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_update_user_profile.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/activity_user_profile.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/content_manager_apply_leave.xml" value="0.1703125" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/content_manager_update_profile.xml" value="0.1703125" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegister2/app/src/main/res/layout/item_approval.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_apply_leave.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_leave_approval.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_main_page.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_manager_leave_history.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_manager_main_page.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_register_user2.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_update_status.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_update_user_profile.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/activity_user_profile.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/item_approval.xml" value="0.5" />
+        <entry key="..\:/Users/kx/AndroidStudioProjects/EleaveLoginRegisterv4/app/src/main/res/layout/update_popup.xml" value="0.25" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_leave_history.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_login.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_main_page.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_manager_apply_leave.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_manager_leave_history.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_manager_main_page.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_manager_update_user_profile.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_manager_user_profile.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_update_status.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_update_user_profile.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/activity_user_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/kxfar/AndroidStudioProjects/EleaveLoginRegisterv3/app/src/main/res/layout/item.xml" value="0.15760869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
